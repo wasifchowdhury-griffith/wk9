@@ -1,0 +1,13 @@
+a {
+    color: #80DB9E;
+}
+
+#navbar {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+nav {
+    font-size: 30px;
+}

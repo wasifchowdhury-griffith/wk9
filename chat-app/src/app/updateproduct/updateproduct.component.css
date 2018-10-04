@@ -1,0 +1,15 @@
+#productUpdate {
+    text-align: center;
+    color: #80BD9E;
+}
+
+input {
+    width: 200px;
+    text-align: center;
+}
+
+.form-control {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}

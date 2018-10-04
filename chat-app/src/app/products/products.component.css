@@ -1,0 +1,33 @@
+#products {
+    text-align: center;
+    background-color: #FF420E;
+}
+
+#searchBar {
+    text-align: center;
+}
+
+.card{
+    background-color: #FF420E;
+    color: #80DB9E;
+}
+
+.card-header{
+    background-color: #F98866;
+}
+
+.card-title{
+    color: black;
+}
+
+input {
+    width: 200px;
+    text-align: center;
+}
+
+.form-inline {
+    background-color: #FF420E;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
